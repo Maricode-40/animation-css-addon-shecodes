@@ -9,7 +9,8 @@ Responsive design
 Clean and simple HTML + CSS structure
 ----
 ## Project Structure
-AddOnCssProBasicSetup/
+AddOnCssProBasicSetup
+
 ├── index.html
 ├── LICENSE
 └── README.md 
