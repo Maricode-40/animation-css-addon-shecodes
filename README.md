@@ -12,10 +12,8 @@ Clean and simple HTML + CSS structure
 AddOnCssProBasicSetup
 
 ├── index.html
-├── LICENSE
+styling inside index for practicity
 └── README.md 
-
-
 
 **🛠️ Built With**
 
