@@ -11,9 +11,10 @@ Clean and simple HTML + CSS structure
 ## Project Structure
 AddOnCssProBasicSetup
 
-├── index.html
+- ├── index.html
 styling inside index for practicity
-└── README.md 
+
+- └── README.md 
 
 **🛠️ Built With**
 
