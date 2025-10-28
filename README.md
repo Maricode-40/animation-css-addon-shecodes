@@ -6,7 +6,7 @@ Built as part of the SheCodes Add-on challenge.
 ## Features
 Smooth transition and keyframe animations
 Responsive design
-Clean and simple HTML + CSS structure
+Clean and simple HTML WCAG + CSS structure 
 ----
 ## Project Structure
 AddOnCssProBasicSetup
